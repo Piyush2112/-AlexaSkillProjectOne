@@ -1,0 +1,84 @@
+mute
+play
+resume
+pause
+freeze
+guide
+power
+turn on
+turn off
+format
+rewind
+replay
+stop
+fast forward
+exit
+end
+leave
+back
+menu
+info
+display
+up
+down
+left
+right
+select
+confirm
+enter
+channel up
+page up
+channel down
+page down
+previous
+next
+Volume Up
+Volume Increase
+Increase Volume
+Up the Volume
+Increase the Volume
+Volume Down
+Volume Decrease
+Decrease Volume
+Down the volume
+Reduce the volume
+Decrease the volume
+Mute
+Un mute
+Power On
+On
+Switch On
+Power up
+Start
+Watch Tv
+Open TV
+Browse TV
+Home
+Go To Home
+Open Home
+Confirm
+Select
+Center
+Dpad Center
+Netflix
+Launch Netflix
+Start Netflix
+Open Netflix
+Toggle Channnel
+Previous Channnel
+Cursor Down
+Cursor Left
+Cursor Up
+Cursor Right
+Next
+Previous
+Pause
+Play
+Stop
+Rewind
+Forward
+Picture Off
+Channel Next
+Channel Previous
+Program Guide
+Power Off

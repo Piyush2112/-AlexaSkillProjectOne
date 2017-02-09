@@ -1,0 +1,11 @@
+Alexa Useful URLS:
+Used:
+https://github.com/bklavet/Echo-skill-to-control-Directv
+https://developer.amazon.com/home.html
+https://console.aws.amazon.com/lambda/home?region=us-east-1#/functions?display=list
+
+Not used
+https://github.com/jpesculis/AlexaSkillsKit-Examples/blob/master/AlexaSkillsKit_HttpGetExample.js
+https://isolasoftware.it/2012/05/28/call-rest-api-with-node-js/
+https://github.com/amzn/alexa-skills-kit-js/blob/master/samples/tidePooler/src/index.js
+https://github.com/MrEggsalad/Echo-Roku-Voice-Control/blob/master/index.js
