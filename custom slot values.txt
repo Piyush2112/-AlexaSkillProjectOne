@@ -1,11 +1,14 @@
 mute
+unmute
 play
 resume
 pause
 freeze
 guide
 power
+power on
 turn on
+power off
 turn off
 format
 rewind

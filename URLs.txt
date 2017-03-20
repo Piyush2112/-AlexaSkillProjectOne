@@ -4,6 +4,9 @@ https://github.com/bklavet/Echo-skill-to-control-Directv
 https://developer.amazon.com/home.html
 https://console.aws.amazon.com/lambda/home?region=us-east-1#/functions?display=list
 
+How to do account linking:
+https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/linking-an-alexa-user-with-a-user-in-your-system
+
 Not used
 https://github.com/jpesculis/AlexaSkillsKit-Examples/blob/master/AlexaSkillsKit_HttpGetExample.js
 https://isolasoftware.it/2012/05/28/call-rest-api-with-node-js/
